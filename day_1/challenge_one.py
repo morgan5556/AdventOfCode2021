@@ -1,6 +1,6 @@
 def calcIncreases():
     # Open puzzle input file
-    file = open('day_1/input.txt', 'r')
+    file = open('input.txt', 'r')
     lines = file.readlines()
 
     # Declare variables
