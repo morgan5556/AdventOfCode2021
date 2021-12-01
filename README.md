@@ -3,6 +3,8 @@
 This GitHub repository contains all my solutions for [Advent of Code 2021](https://adventofcode.com/). They are written in Python in order to gain more knowledge in the language.
 
 ## Day One
+My solutions and the puzzle input for Day One can be found in the `day_1` folder.
+
 Challenge 1: 1/1 Star
 > I did this challenge by looping through each line in the text file. Setting the 'previousNum' value as 0, and the 'currentNum' as the first line I then compare these values. After all values have been compared, the 'increases' value is decreased by 1 to account for the 'previousNum' variable being set as 0 at the start.
 
