@@ -18,8 +18,19 @@ My solutions and the puzzle input for Day Two can be found in the `day_2` folder
 
 Challenge 1: 1/1 Star
 
-> I did his challenge by looping through each instruction in the text file and splitting it into a direction and a value. From this, I use an if statement to determine what direction the instruction is. The calculations are done based on the if statement.
+> I did this challenge by looping through each instruction in the text file and splitting it into a direction and a value. From this, I use an if statement to determine what direction the instruction is. The calculations are done based on the if statement.
 
 Challenge 2: 1/1 Star
 
 > This challenge was done in a similar way to Challenge 1, with the only difference being the change in the calculations made in the if statement.
+
+## Day Three
+My solutions and the puzzle input for Day Three can be found in the `day_3` folder.
+
+Challenge 1: 1/1 Star
+
+> I did this challenge by first creating a loop from 0 to 11 to loop over each bit in the binary string. I then looped through each line inside this loop and counted the occurences of 1s and 0s. I then used an if statement to determine how the gamma and epsilon rates should be changed.
+
+Challenge 2: 0/1 Star
+
+> Unfortunatley, I was unable to complete this challenge on December 3rd. My solution can be found in the repository, however, I did not get the correct answer. When testing, it occured that not all the binary strings in the list were deleted if it didn't follow the requirements.
