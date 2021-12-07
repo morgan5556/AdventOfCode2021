@@ -33,4 +33,48 @@ Challenge 1: 1/1 Star
 
 Challenge 2: 0/1 Star
 
-> Unfortunatley, I was unable to complete this challenge on December 3rd. My solution can be found in the repository, however, I did not get the correct answer. When testing, it occured that not all the binary strings in the list were deleted if it didn't follow the requirements.
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+## Day Four
+My solutions and the puzzle input for Day Four can be found in the `day_4` folder.
+
+Challenge 1: 0/1 Star
+
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+Challenge 2: 0/1 Star
+
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+## Day Five
+My solutions and the puzzle input for Day Five can be found in the `day_5` folder.
+
+Challenge 1: 0/1 Star
+
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+Challenge 2: 0/1 Star
+
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+## Day Six
+My solutions and the puzzle input for Day Six can be found in the `day_6` folder.
+
+Challenge 1: 1/1 Star
+
+> I did this challenge by creating a for loop that loops from 1 to 80. In that for loop, I loop over every element and subtract 1, if that value is a 0, the element is changed to an 8 and a 6 appended to the list.
+
+Challenge 2: 0/1 Star
+
+> I unfortunately did not complete this challenge. I hope to return to it later on during Advent of Code. Any updates will be made here.
+
+## Day Seven
+My solutions and the puzzle input for Day Seven can be found in the `day_7` folder.
+
+Challenge 1: 1/1 Star
+
+> I did this challenge by finding the min and max value in the list and then looping through every value between them. In that loop, the difference between each crab and the value is calculated and added to a 'currentDistance' variable. At the end, it is compared to the 'currentLowest' value.
+
+Challenge 2: 1/1 Star
+
+> I did this challenge in a similar way to challenge 1. Instead of using the 'difference' variable to add to the 'currentDistance' variable, I instead used this as 'n' in the triangular number sequence. This value was added to the 'currentDistance' variable instead.
